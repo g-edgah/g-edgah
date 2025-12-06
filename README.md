@@ -14,10 +14,10 @@ Welcome to my digital workshop! I'm a **software developer** and **cybersecurity
 ### My Stack
 
 #### languages
-[![My Skills](https://skillicons.dev/icons?i=python,bash,javascript,html,css,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,javascript,html,css,php&theme=light)](https://skillicons.dev)
 
 #### tools
-[![My Skills](https://skillicons.dev/icons?i=figma,blender,react,vite,expressjs,nodejs,nginx,mongodb,linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,blender,react,vite,expressjs,nodejs,nginx,mongodb,linux,git,github&theme=light&perline=6)](https://skillicons.dev)
 
 ---
 
@@ -32,4 +32,5 @@ I'm always open to:
 <!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
 
 ---
-check out some of my projects bellow 
+
+### Check out some of my projects bellow 
