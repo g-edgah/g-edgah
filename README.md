@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm g-edgah</h1>
-<h3 align="center">A software developer with a penchant for building software that ensures users are both hooked and safe</h3>
+<h3 align="left">A software developer with a penchant for building software that ensures users are both hooked and safe</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
