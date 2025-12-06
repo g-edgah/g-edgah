@@ -14,10 +14,10 @@ Welcome to my digital workshop! I'm a **software developer** and **cybersecurity
 ### My Stack
 
 #### languages
-[![My Skills](https://skillicons.dev/icons?i=python,bash,javascript,html,css,php&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,javascript,html,css,php&theme=dark)](https://skillicons.dev)
 
 #### tools
-[![My Skills](https://skillicons.dev/icons?i=figma,blender,react,vite,expressjs,nodejs,nginx,mongodb,linux,git,github&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,blender,react,vite,expressjs,nodejs,nginx,mongodb,linux,git,github&theme=dark&perline=6)](https://skillicons.dev)
 
 ---
 
