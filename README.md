@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm g-edgah
 
-Welcome to my digital workshop! I'm a **software developer** and **cybersecurity expert** with a background in engineering who's passionate about building applications that are both elegant and secure.
+Welcome to my digital workshop! I'm a **software developer** and **cybersecurity expert** with a background in engineering. I'm passionate about building applications that are both elegant and secure.
 
 ---
 
