@@ -18,9 +18,7 @@ Welcome to my digital workshop! I'm a **software developer** and **cybersecurity
 
 #### tools
 [![My Skills](https://skillicons.dev/icons?i=figma,blender&theme=dark)](https://skillicons.dev)
-<a href="https://gsap.com" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/g-edgah/g-edgah/main/src/svgs/gsap.svg" style="vertical-align: middle;" alt="GSAP" />
-</a> 
+<img src="https://raw.githubusercontent.com/g-edgah/g-edgah/main/src/svgs/gsap.svg" style="vertical-align: middle;" alt="GSAP" />
 [![My Skills](https://skillicons.dev/icons?i=react,vite,expressjs,nodejs,nginx,mongodb,mysql,linux,git,github&theme=dark)](https://skillicons.dev)
 
 ---
