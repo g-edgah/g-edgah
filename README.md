@@ -14,7 +14,7 @@ Welcome to my digital workshop! I'm a **software developer** and **cybersecurity
 ### My Stack
 
 #### languages
-[![My Skills](https://skillicons.dev/icons?i=python,bash,javascript,html,css,php&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,javascript,html,css,tailwind,php&theme=dark)](https://skillicons.dev)
 
 #### tools
 [![My Skills](https://skillicons.dev/icons?i=figma,blender&theme=dark)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/g-edgah/g-edgah/main/src/svgs/gsap.svg" style="vertical-align: middle;" alt="GSAP" /> [![My Skills](https://skillicons.dev/icons?i=react,vite,expressjs,nodejs,graphql&theme=dark)](https://skillicons.dev)
