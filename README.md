@@ -7,7 +7,7 @@ Welcome to my digital workshop! I'm a **software developer** and **cybersecurity
 ### What I'm up to
 
 - **Currently Building:** Something cool and secret
-- **Currently Learning:** Advanced backend security patterns and cloud-native development
+- **Currently Learning:** Advanced backend security patterns and android mobile app developement
 
 ---
 
