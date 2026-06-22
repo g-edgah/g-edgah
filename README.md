@@ -30,6 +30,7 @@ I'm always open to:
 - **Connecting** with fellow developers and security enthusiasts
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ajagurwa-edgah/)
+[![Medium](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ajagurwa-edgah/)
 <!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
 
 ---
