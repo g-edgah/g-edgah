@@ -6,7 +6,7 @@ Welcome to my digital workshop! I'm a **software developer** and **cybersecurity
 
 ### What I'm up to
 
-- **Currently Building:** Something cool and secret
+- **Currently Building:** A full stack e-commerce app
 - **Currently Learning:** Advanced backend security patterns and android mobile app developement
 
 ---
@@ -17,8 +17,8 @@ Welcome to my digital workshop! I'm a **software developer** and **cybersecurity
 [![My Skills](https://skillicons.dev/icons?i=python,bash,javascript,html,css,tailwind,php,kotlin&theme=dark)](https://skillicons.dev)
 
 #### tools
-[![My Skills](https://skillicons.dev/icons?i=figma,blender&theme=dark)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/g-edgah/g-edgah/main/src/svgs/gsap.svg" style="vertical-align: middle;" alt="GSAP" /> [![My Skills](https://skillicons.dev/icons?i=react,vite,expressjs,nodejs,graphql&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postman,nginx,mongodb,mysql,linux,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,blender&theme=dark)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/g-edgah/g-edgah/main/src/svgs/gsap.svg" style="vertical-align: middle;" alt="GSAP" /> [![My Skills](https://skillicons.dev/icons?i=react,vite,expressjs,nodejs,graphql,postman,nginx,mongodb,mysql,linux,git,github&theme=dark)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=postman,nginx,mongodb,mysql,linux,git,github&theme=dark)](https://skillicons.dev) -->
 
 ---
 
@@ -29,8 +29,7 @@ I'm always open to:
 - **Collaborating** on interesting open-source projects
 - **Connecting** with fellow developers and security enthusiasts
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ajagurwa-edgah/)
-[![Medium](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ajagurwa-edgah/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ajagurwa-edgah/)&nbsp; [![Medium](./src/svgs/medium.svg)](https://medium.com/@pture)
 <!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
 
 ---
