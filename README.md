@@ -1,4 +1,4 @@
-## 👋 Hi, I'm edgah
+## 👋 Hi, I'm Edgah
 
 Welcome to my digital workshop! I'm a **software developer** and **cybersecurity expert** with a background in engineering. I'm passionate about building applications that are both elegant and secure.
 
