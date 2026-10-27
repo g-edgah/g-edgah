@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Edgah
 
-Welcome to my digital workshop! I'm a **software developer** and **cybersecurity expert** with a background in engineering. I'm passionate about building applications that are both elegant and secure.
+Welcome to my digital workshop! I'm a **cybersecurity expert** and **software developer** with a background in engineering. I'm passionate about ensuring existing systems and applications are secure, and building applications that are both elegant and secure.
 
 ---
 
@@ -24,7 +24,7 @@ Welcome to my digital workshop! I'm a **software developer** and **cybersecurity
 ### Reach out!
 
 I'm always open to:
-- **Career opportunities** where I can build secure, impactful software
+- **Career opportunities**
 - **Collaborating** on interesting open-source projects
 - **Connecting** with fellow developers and security enthusiasts
 
