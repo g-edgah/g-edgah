@@ -7,7 +7,7 @@ Welcome to my digital workshop! I'm a **software developer** and **cybersecurity
 ### What I'm up to
 
 - **Currently Building:** A browser engine in rust
-- **Currently Learning:** cloud security
+- **Currently Learning:** cloud & cloud security
 
 ---
 
