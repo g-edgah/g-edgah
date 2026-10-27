@@ -6,8 +6,8 @@ Welcome to my digital workshop! I'm a **software developer** and **cybersecurity
 
 ### What I'm up to
 
-- **Currently Building:** A full stack e-commerce app
-- **Currently Learning:** Advanced backend security patterns and android mobile app developement
+- **Currently Building:** A browser engine in rust
+- **Currently Learning:** cloud security
 
 ---
 
